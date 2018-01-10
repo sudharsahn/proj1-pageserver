@@ -72,5 +72,5 @@ development environment, test on a Raspberry Pi running Ubuntu.
 
 ### Who do I talk to? ###
 
-* Maintained by Michal Young, michal@cs.uoregon.edu
+* Maintained by Ram Durairajan, Sudharshan Srinivasan and Guangyi Tao
 * Use our Piazza group for questions. Make them public (anonymous or not as you prefer) unless you have a good reason to make them private, so that everyone benefits from answers and discussion. 
