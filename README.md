@@ -37,7 +37,7 @@ the 'tests' directory) and some manual tests.
   ## Author: John Doe, jdoe@uoregon.edu ##
   ~~~~
   
-* Copy the skel-credentials.ini file to credentials.ini, then edit it
+* Copy the credentials-skel.ini file to credentials.ini, then edit it
   to contain correct information including your github repository
   URL.  credentials.ini should NOT be under version control (exclude
   it using your .gitignore file)
