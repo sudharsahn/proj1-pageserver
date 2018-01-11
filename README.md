@@ -13,32 +13,28 @@ The objectives of this mini-project are:
 
 ### What do I need?  Where will it work? ###
 
-* Designed for Unix, mostly interoperable on Linux (Ubuntu) or MacOS.
-  Target environment is Raspberry Pi. 
-  ** May also work on Windows, but no promises.  A Linux virtual machine
-   may work, but our experience has not been good; if you don't have a 
-   Raspberry Pi in hand yet, you may want to test on shared server
-  ix-dev.
+* Designed for Unix, mostly interoperable on Linux (Ubuntu) or MacOS. May also work on Windows, but no promises.  A Linux virtual machine may work, but our experience has not been good; you may want to test on shared server ix-dev.
+
 * You will need Python version 3.4 or higher. 
+
 * Designed to work in "user mode" (unprivileged), therefore using a port 
   number above 1000 (rather than port 80 that a privileged web server would use)
 
-* Windows 10 note:  The new Windows bash on ubuntu looks promising.
+* Windows 10 note: The new Windows bash on ubuntu looks promising.
   If you are running Windows 10, please give this a try and let me
   know if the Ubuntu/bash environment is suitable for CIS 322
   develpment. 
 
 ### Assignment ###
-* Fork this repository to create your own repository on Github.  (Read the 'git' documentation as needed, and create an account on Github if you don't have one.) 
+* Fork this repository to create your own repository on Github.  (Read the 'git' documentation as needed, and create an account on Github if you don't have one. You should've already done finished this as part of Project 0.) 
 * Clone your repository onto the machine you want to work on.
 * Make and test your changes.  Use both automated tests (the script in
-the 'tests' directory) and some manual tests.  In addition to your
-development environment, test on a Raspberry Pi running Ubuntu. 
+the 'tests' directory) and some manual tests.
 * Revise this README.md file:  Erase what is no longer relevant and 
-  add identifying information. 
+  add identifying information. If you have concerns about adding your email ID, let the instructors know.
   
   ~~~~
-  ## Author: Lil (Nancy) Magill , jill@uoregon.edu ##
+  ## Author: John Doe, jdoe@uoregon.edu ##
   ~~~~
   
 * Copy the skel-credentials.ini file to credentials.ini, then edit it
@@ -47,7 +43,7 @@ development environment, test on a Raspberry Pi running Ubuntu.
   it using your .gitignore file)
 * Commit and push ALL your changes to github (except those not under 
   revision control)
-* Test deployment to other environments including Raspberry Pi.  Deployment 
+* Test deployment in other environments.  Deployment 
   should work "out of the box" with this command sequence: 
 
   ~~~~
@@ -65,7 +61,7 @@ development environment, test on a Raspberry Pi running Ubuntu.
 
 * Check and revise your "credentials/credentials.ini" file.  My
   grading robots will read this. Be precise. My grading robots
-  are not very good at guessing what you meant to write.  Try
+  are not very good at guessing what you meant to write. Try
   it with the auto-checker to be sure. 
 * Turn in the credentials.ini file in Canvas.  My grading robots will
   use this file to access your github repository.   
