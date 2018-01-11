@@ -63,8 +63,7 @@ the 'tests' directory) and some manual tests.
 
 * Check and revise your "credentials/credentials.ini" file.  My
   grading robots will read this. Be precise. My grading robots
-  are not very good at guessing what you meant to write. Try
-  it with the auto-checker to be sure. 
+  are not very good at guessing what you meant to write.
 * Turn in the credentials.ini file in Canvas.  My grading robots will
   use this file to access your github repository.   
 
