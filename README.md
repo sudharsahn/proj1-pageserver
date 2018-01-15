@@ -60,7 +60,8 @@ the 'tests' directory) and some manual tests.
   ~~~~
   make kill 
   ~~~~
-
+  
+* Alternatively, use the script under "tests" folder to test the expected outcomes in an automated fashion. It is accompanied by README file and comments (inside tests.sh) explaining how to test your code.
 * Check and revise your "credentials/credentials.ini" file.  My
   grading robots will read this. Be precise. My grading robots
   are not very good at guessing what you meant to write.
